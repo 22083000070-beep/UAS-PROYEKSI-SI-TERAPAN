@@ -1,0 +1,7 @@
+{
+  "name": "Warung Makan Lezat",
+  "description": "A comprehensive digital menu and ordering platform for Warung Makan Lezat, featuring an AI-powered waiter for personalized recommendations and real-time cart management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
